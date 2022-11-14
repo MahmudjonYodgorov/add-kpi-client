@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+/***************  Header Styles start  ***************/
+.container{
+    width: 70%;
+}
+
+.container-wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+/******************  Header Styles end  ***************/
+
+/******************  Main Styles start  ***************/
+
+.main-title{
+    font-size: 50px;
+    width: 60%;
+}
+.main-desc{
+    font-size: 20px;
+}
+
+.main-email{
+    gap: 30px;
+}
+
+.color{
+    background-color: #808080;
+    width: 500px;
+    height: 300px;
+    opacity: 0.04
+}
+
+/******************  Main Styles end  ***************/
+
+
+
